@@ -47,12 +47,13 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2024.09 - 2025.09 (now)*, University of York, MSc in Forensic Speech Science.
-- *2019.09 - 2023.09*,  Southwest University of Political Science and Law, BL in Science of Criminal Investigation.
+- *2024.09 - 2025.09*:  **University of York**, MSc in Forensic Speech Science.
+- *2019.09 - 2023.09*:  **Southwest University of Political Science and Law**, BL in Science of Criminal Investigation.
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.06*:  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+- *2021.03*:  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2021.01 - 2021.02, 2021.05 - 2021.07*: **Forensic Science Center, Southwest University of Political Science and Law**	Chongqing, China.
+- *2021.01 - 2021.02, 2021.05 - 2021.07*: **Forensic Science and Technology Department, Jizhou Public Security Branch of Ji'an City**	Jiangxi, China.
