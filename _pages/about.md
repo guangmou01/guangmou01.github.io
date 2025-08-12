@@ -48,7 +48,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📖 Educations
 - *2024.09 - 2025.09 (now)*, University of York, MSc in Forensic Speech Science.
-- *2019.09 - 2023.09*,  Southwest University of Political Science & Law, BL in Science of Criminal Investigation.
+- *2019.09 - 2023.09*,  Southwest University of Political Science and Law, BL in Science of Criminal Investigation.
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
