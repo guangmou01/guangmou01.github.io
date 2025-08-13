@@ -19,7 +19,7 @@ redirect_from:
 
 XXX.
 
-# 📜 Research Area
+# 📜 Research Interests
 
 | Research Branch | Details |
 | -------- | -------- |
