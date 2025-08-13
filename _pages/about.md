@@ -35,10 +35,10 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 💻 Internships and Working Experience
 
-| Period | Organization | Location | Role | Contents |
-| ------ | ------------ | -------- | ---- | --------------------|
-| 2021.08–2023.12 | **Forensic Science Center, SWUPL** | Chongqing, China | Assistant Forensic Examiner | • Questioned Document Examination<br> • Fingermark Examination<br> • Forensic Instrument Analysis of Chemical Evidence<br> • Audio-visual Evidence Examination |
-| 2021.01–2021.02; 2021.05–2021.07 | **Forensic Science & Technology Department, Jizhou Public Security Branch** | Jiangxi, China | Intern Forensic Investigator | • Crime Scene Investigation<br> • Unnatural Death and Medico-legal Investigation<br> • Information-driven Investigation |
+| Period | Organization | Role | Contents |
+| ------ | ------------ | ---- | -------- |
+| 2021.08–2023.12 | ***Forensic Science Center, SWUPL***, Chongqing, China | Assistant Forensic Examiner | • Questioned Document Examination<br> • Fingermark Examination<br> • Forensic Instrument Analysis of Chemical Evidence<br> • Audio-visual Evidence Examination |
+| 2021.01–2021.02; 2021.05–2021.07 | ***Forensic Science & Technology Department, Jizhou Public Security Branch***, Jiangxi, China | Intern Forensic Investigator | • Crime Scene Investigation<br> • Unnatural Death and Medico-legal Investigation<br> • Information-driven Investigation |
 
 
 - 2021.08 - 2023.12: ***Forensic Science Center, SWUPL***, Chongqing, China.  
