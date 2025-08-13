@@ -35,8 +35,11 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 💻 Internships and Working Experience
 - *2021.08 - 2023.12*: **Forensic Science Center, SWUPL**	Chongqing, China.
+
 Assistant Forensic Examiner
+
 - *2021.01 - 2021.02, 2021.05 - 2021.07*: **Forensic Science & Technology Department, Jizhou Public Security Branch**	Jiangxi, China.
+
 Intern Forensic Investigator
 
 
