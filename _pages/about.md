@@ -34,7 +34,9 @@ My research interest includes neural machine translation and computer vision. I 
 - *2019.09 - 2023.09*:  **Southwest University of Political Science and Law (SWUPL)**, BL in Science of Criminal Investigation.
 
 # 💻 Internships and Working Experience
-- *2021.01 - 2021.02, 2021.05 - 2021.07*: Assistant Forensic Examiner **Forensic Science Center, SWUPL**	Chongqing, China.
-- *2021.08 - 2023.12*: Intern Forensic Investigator **Forensic Science and Technology Department, Jizhou Public Security Branch**	(Jiangxi, China).
+- *2021.08 - 2023.12*: Assistant Forensic Examiner **Forensic Science Center, SWUPL**	Chongqing, China.
+- *2021.05 - 2021.07*: Intern Forensic Investigator **Forensic Science and Technology Department, Jizhou Public Security Branch**	Jiangxi, China.
+- *2021.01 - 2021.02*:
+  Intern Forensic Investigator **Forensic Science and Technology Department, Jizhou Public Security Branch**	Jiangxi, China.
 
 
