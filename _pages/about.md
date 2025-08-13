@@ -23,7 +23,7 @@ Hi, I’m Deng Guangmou, currently pursuing a MSc degree in Forensic Speech Scie
 
 I have a strong interest and curiosity in **various branches of forensic science**. I care about bringing transparent, scientific methods and clear interpretation frameworks into forensic practice, for supporting rational decision-making.
 
-# 📜 Research Interests
+# 🔍 Research Interests
 
 | Research Branch | Details |
 | -------- | -------- |
