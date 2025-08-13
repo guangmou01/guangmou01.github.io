@@ -30,19 +30,19 @@ My research interest includes neural machine translation and computer vision. I 
 | Questioned Document Examination | Quantification Method for Handwriting, Printing Document Authentication |
 
 # 🏫 Education
-- *2024.09 - 2025.09*:  **University of York**, MSc in Forensic Speech Science.
-- *2019.09 - 2023.09*:  **Southwest University of Political Science and Law (SWUPL)**, BL in Science of Criminal Investigation.
+- 2024.09 - 2025.09:  **University of York**, MSc in Forensic Speech Science.
+- 2019.09 - 2023.09:  **Southwest University of Political Science and Law (SWUPL)**, BL in Science of Criminal Investigation.
 
 # 💻 Internships and Working Experience
-- *2021.08 - 2023.12*: **Forensic Science Center, SWUPL**, Chongqing, China.  
-Assistant Forensic Examiner  
+- 2021.08 - 2023.12: **Forensic Science Center, SWUPL**, Chongqing, China.  
+*Assistant Forensic Examiner*  
 •	Questioned Document Examination  
 •	Fingermark Examination  
 •	Forensic Instrument Analysis of Chemical Evidence  
 •	Audio-visual Evidence Examination  
 
-- *2021.01 - 2021.02, 2021.05 - 2021.07*: **Forensic Science & Technology Department, Jizhou Public Security Branch**, Jiangxi, China.  
-Intern Forensic Investigator  
+- 2021.01 - 2021.02, 2021.05 - 2021.07: **Forensic Science & Technology Department, Jizhou Public Security Branch**, Jiangxi, China.  
+*Intern Forensic Investigator*  
 •	Crime Scene Investigation  
 •	Unnatural Death and Medico-legal Investigation  
 •	Information-driven Investigation  
