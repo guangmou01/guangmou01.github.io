@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Deng Guangmou"
-description              : "XXXX"
+description              : "MSc student in Forensic Speech Science"
 repository               : "guangmou01/guangmou01.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -22,9 +22,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Deng Guangmou"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "XXX"
-  location         : "Beijing, China"
+  avatar           : "images/guangmou_profile.png"
+  bio              : "University of York"
+  location         : "York, British"
   employer         :
   pubmed           : 
   googlescholar    : 
