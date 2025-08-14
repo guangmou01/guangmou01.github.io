@@ -38,8 +38,6 @@ I have a strong interest and curiosity in **various branches of forensic science
 # 📰 News
 
 
-# 📑 Publications
-
 
 
 
