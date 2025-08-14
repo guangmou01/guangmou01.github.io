@@ -6,13 +6,13 @@ author_profile: true
 ---
 
 # 🦦 About Me
-{% include about/intro.md %}
+{% include about/0_intro.md %}
 
 # 🔍 Research Interests
-{% include about/research.md %}
+{% include about/1_interest.md %}
 
 # 🏫 Education
-{% include about/education.md %}
+{% include about/2_education.md %}
 
 # 💻 Working Experience
-{% include about/experience.md %}
+{% include about/3_experience.md %}
