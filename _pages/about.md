@@ -17,6 +17,8 @@ redirect_from:
 
 {% include_relative includes/3_work.md %}
 
+{% include_relative includes/4_news.md %}
+
 <span class='anchor' id='end-page'></span>
 
 
