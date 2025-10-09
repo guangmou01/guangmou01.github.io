@@ -37,7 +37,7 @@ I have a strong interest and curiosity in **various branches of forensic science
 
 # 📰 News
 
-- *2025.10*: &nbsp;🚀 I’m currently developing a **Forensic Likelihood Ratio Evaluation Toolkit (FLRToolkit)** for end-to-end source-level LR evaluation ([GitHub](https://github.com/guangmou01/FLRToolkit)).
+- *2025.10*: I’m currently developing a **Forensic Likelihood Ratio Evaluation Toolkit (FLRToolkit)** for end-to-end source-level LR evaluation ([GitHub](https://github.com/guangmou01/FLRToolkit)).
 
 
 
